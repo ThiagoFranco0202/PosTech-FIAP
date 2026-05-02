@@ -8,10 +8,11 @@ O dataset utilizado pode ser baixado em: [https://www.kaggle.com/datasets/fedeso
 
 ## Instruções de Execução
 
-1. Baixe o arquivo `heart.csv` do link acima e coloque-o no mesmo diretório do notebook, caso opte por colocar o csv em outro diretório, favor alterar no código (`pd.read_csv('novo_diretório')`).
-2. Instale as bibliotecas necessárias: `pandas`, `seaborn`, `matplotlib`, `scikit-learn`.
-3. Abra o notebook `notebook.ipynb` em um ambiente Jupyter (como VS Code, Jupyter Lab ou Google Colab).
-4. Execute as células em ordem sequencial ou o projeto todo de uma vez.
+1. Instale o Python no seu ambiente antes de instalar as bibliotecas.
+2. O dataset utilizado já está no repositório junto com o notebook, mas caso queira optar por baixá-lo e salvá-lo em outro diretório, o arquivo `heart.csv` se encontra no link acima. Caso opte por colocar o csv em outro diretório, altere o caminho no código (`pd.read_csv('novo_diretório')`).
+3. Instale as bibliotecas necessárias: `pandas`, `seaborn`, `matplotlib`, `scikit-learn`.
+4. Abra o notebook `notebook.ipynb` em um ambiente Jupyter (como VS Code, Jupyter Lab ou Google Colab).
+5. Execute as células em ordem sequencial ou o projeto todo de uma vez.
 
 ## Resultados Obtidos
 
